@@ -19,7 +19,8 @@ let txt = `*Hola!, te invito a formar parte de nuestros grupos.*
 *亀🇪🇸 𝔽𝕒𝕟𝕤 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 🇪🇸亀*
 https://chat.whatsapp.com/ChQubdKdYav2XpohU8Vs3R
 
-*🌍🦸‍♂️🖖 𝑴𝒖𝒏𝒅𝒐 𝑭𝒓𝒊𝒌𝒊 🖖🦸‍♂️🌍* https://chat.whatsapp.com/DY1OajQN1dn3zKWy18pwF2
+*🌍🦸‍♂️🖖 𝑴𝒖𝒏𝒅𝒐 𝑭𝒓𝒊𝒌𝒊 🖖🦸‍♂️🌍*
+https://chat.whatsapp.com/DY1OajQN1dn3zKWy18pwF2
 
 *🌍🤖 𝑫𝒆𝒔𝒄𝒂𝒓𝒈𝒂 𝒃𝒐𝒕𝒔 - 𝑹𝒆𝒅𝒆𝒔 𝒔𝒐𝒄𝒊𝒂𝒍𝒆𝒔 🤖🌍*
 https://chat.whatsapp.com/EGR7UJ4mvjMD0hc0ZoAxwI
@@ -49,7 +50,7 @@ https://chat.whatsapp.com/CtZOjnEVUEBHuaEnsNoo7H
 https://chat.whatsapp.com/CRYP316MujxKFYiIHe9ZEx
 
 *🌍⚔️🛡️ 𝑭𝒂𝒏𝒔 𝒅𝒆 𝒂𝒕𝒂𝒒𝒖𝒆 𝒂 𝒍𝒐𝒔 𝒕𝒊𝒕𝒂𝒏𝒆𝒔 ⚔️🛡️🌍*
-https://chat.whatsapp.com/FSJYfwMx8RVEMQ9zkt7xPx
+https://chat.whatsapp.com/Bjf43ZD8ZlZBCWE0Yv3jIX
 
 *🌍🌟🌌 𝑭𝒂𝒏𝒔 𝒅𝒆 𝒍𝒂 𝒑𝒂𝒕𝒓𝒖𝒍𝒍𝒂 𝒈𝒂𝒍á𝒄𝒕𝒊𝒄𝒂 "𝑮𝒂𝒍𝒂𝒙𝒚 𝑹𝒂𝒏𝒈𝒆𝒓𝒔" 🌌🌟🌍*
 https://chat.whatsapp.com/IYoPm45egDQJ5yBOsHxBpc
@@ -72,12 +73,9 @@ https://chat.whatsapp.com/J0vzttZbKXqKeUZPj0fUYa
 *🌍💪🦲 𝑶𝒏𝒆 𝒑𝒖𝒏𝒄𝒉 𝒎𝒂𝒏 🦲💪🌍*
 https://chat.whatsapp.com/CjPAAmdWQzO07yzPoypr6O
 
-*🌍🐱🌕 𝗦𝗮𝗶𝗹𝗼𝗿 𝗠𝗼𝗼𝗻 🌕🐱🌍*
-https://chat.whatsapp.com/Bjf43ZD8ZlZBCWE0Yv3jIX
-
 *Ayudanos con el gasto del servidor http://paypal.me/GokuBotyJuan1986*
 
-*Actualizado 24/02/2024.*
+*Actualizado 22/09/2024.*
 
 > 🚩 ${textbot}`
 await conn.sendFile(m.chat, img, "Thumbnail.jpg", txt, m, null, rcanal)
