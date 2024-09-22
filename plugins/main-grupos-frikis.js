@@ -31,9 +31,6 @@ https://chat.whatsapp.com/EGR7UJ4mvjMD0hc0ZoAxwI
 *🌍⚡🔥 𝑭𝒂𝒏𝒔 𝒅𝒆 𝑷𝒐𝒌𝒆𝒎𝒐𝒏 🔥⚡🌍*
 https://chat.whatsapp.com/KfMhKx6jRUR8jzZB13M2hB
 
-*🌍🥅⚽ 𝘊𝘢𝘱𝘪𝘵𝘢𝘯 𝘛𝘴𝘶𝘣𝘢𝘴𝘢 - 𝘊𝘢𝘮𝘱𝘦𝘰𝘯𝘦𝘴: 𝘖𝘭𝘪𝘷𝘦𝘳 𝘺 𝘉𝘦𝘯𝘫𝘪 ⚽🥅🌍*
-https://chat.whatsapp.com/GtVWMKa8Nkn04h7YeswwGQ
-
 *🌍🍥🍜 𝑭𝒂𝒏𝒔 𝒅𝒆 𝑵𝒂𝒓𝒖𝒕𝒐 🍜🍥🌍*
 https://chat.whatsapp.com/CIsIuOpJoEX72KsLMHpMHz
 
