@@ -19,8 +19,8 @@ let txt = `*Hola!, te invito a formar parte de nuestros grupos.*
 *亀🇪🇸 𝔽𝕒𝕟𝕤 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 🇪🇸亀*
 https://chat.whatsapp.com/ChQubdKdYav2XpohU8Vs3R
 
-*🌍🦸‍♂️🖖 𝑴𝒖𝒏𝒅𝒐 𝑭𝒓𝒊𝒌𝒊 🖖🦸‍♂️🌍*
-https://chat.whatsapp.com/DY1OajQN1dn3zKWy18pwF2
+*🌍🦸‍♂️🖖 Bola de drac català 🖖🦸‍♂️🌍*
+...
 
 *🌍🤖 𝑫𝒆𝒔𝒄𝒂𝒓𝒈𝒂 𝒃𝒐𝒕𝒔 - 𝑹𝒆𝒅𝒆𝒔 𝒔𝒐𝒄𝒊𝒂𝒍𝒆𝒔 🤖🌍*
 https://chat.whatsapp.com/EGR7UJ4mvjMD0hc0ZoAxwI
