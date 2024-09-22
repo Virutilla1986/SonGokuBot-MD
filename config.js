@@ -97,7 +97,7 @@ global.DragonBallKakarot = '🌍🎮🐉 𝔻𝕣𝕒𝕘𝕠𝕟 𝕓𝕒𝕝�
 global.DragonBallZDokkanBattle = '🌍🎮🐉 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 ℤ 𝔻𝕠𝕜𝕜𝕒𝕟 𝕓𝕒𝕥𝕥𝕝𝕖 🐉🎮🌍'
 global.DragonBallZFans = '🐲🅳𝗥𝗔𝗚𝗢𝗡 🅱𝗔𝗟𝗟𝗦 🆉🐲🔥 🅵𝗔𝗡𝗦 🎥'
 global.FansDragonBallZKai = '🌍🐉🐲 𝔽𝕒𝕟𝕤 𝔻𝕖 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 ℤ 𝕂𝕒𝕚 🐲🐉🌍'
-global.canal = '🌍🐉🐲 Noticias dragón ball 🐲🐉🌍'
+global.Noticiasdragonball = '🌍🐉🐲 Noticias dragón ball 🐲🐉🌍'
 
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
