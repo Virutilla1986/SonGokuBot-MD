@@ -61,6 +61,9 @@ global.gp1 = 'https://chat.whatsapp.com/L2vpoClRqYC6wsmGC0gFqS' //🌍📱🎮�
 global.group = 'https://chat.whatsapp.com/BR4uITM6xeR8GAd8b2VXN6'
 global.canal = 'https://whatsapp.com/channel/0029VaSZsS14Y9lhQYCFvO0w'
 
+
+global.DragonBallLegends = '🌍📱🎮🐉 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 𝕃𝕖𝕘𝕖𝕟𝕕𝕤 🐉 🎮📱🌍'
+
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: botname, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
