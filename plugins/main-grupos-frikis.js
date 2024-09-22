@@ -20,7 +20,7 @@ let txt = `*Hola!, te invito a formar parte de nuestros grupos.*
 https://chat.whatsapp.com/ChQubdKdYav2XpohU8Vs3R
 
 *🌍🦸‍♂️🖖 Bola de drac català 🖖🦸‍♂️🌍*
-...
+https://chat.whatsapp.com/Jl57mUSc0Nr0DxdqcB74hI
 
 *🌍 Bola de drac en Valencià 🌍*
 https://chat.whatsapp.com/IhWTZM7Wu36AiiXE7mfXak
