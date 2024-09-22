@@ -57,6 +57,7 @@ global.fantasyVid = ['./media/menus/Menuvid1.mp4', './media/menus/Menuvid2.mp4',
 global.catalogo = fs.readFileSync('./storage/img/catalogo.png')
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
+global.gp1 = 'https://chat.whatsapp.com/L2vpoClRqYC6wsmGC0gFqS' //🌍📱🎮🐉 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 𝕃𝕖𝕘𝕖𝕟𝕕𝕤 🐉 🎮📱🌍
 global.group = 'https://chat.whatsapp.com/BR4uITM6xeR8GAd8b2VXN6'
 global.canal = 'https://whatsapp.com/channel/0029VaSZsS14Y9lhQYCFvO0w'
 
