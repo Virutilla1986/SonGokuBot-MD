@@ -49,14 +49,8 @@ https://chat.whatsapp.com/Bjf43ZD8ZlZBCWE0Yv3jIX
 *🌍🃏♣️ 𝑭𝒂𝒏𝒔 𝒅𝒆 𝑲𝒂𝒌𝒆𝒈𝒖𝒓𝒖𝒊 ♣️🃏🌍*
 https://chat.whatsapp.com/By1GlKQ5yLQAYYxhTR8t9N
 
-*🌍🪚🗡️ 𝑪𝒉𝒂𝒊𝒏𝒔𝒂𝒘 𝑴𝒂𝒏 🗡️🪚🌍*
-https://chat.whatsapp.com/JmDT04P5aSfJoIfCAmh40A
-
 *🌍⚔️🗡️ 𝑲𝒊𝒍𝒍 𝒍𝒂 𝒌𝒊𝒍𝒍 🗡️⚔️🌍*
 https://chat.whatsapp.com/IIH75WjAuzhBSrd05wFsgV
-
-*🌍🔩🦾 𝑭𝒂𝒏𝒔 𝑮𝒉𝒐𝒔𝒕 𝒊𝒏 𝒕𝒉𝒆 𝑺𝒉𝒆𝒍𝒍 🦾🔩🌍*
-https://chat.whatsapp.com/HAnxvpAirb4AsXBsDAGn6E
 
 *🌍🎭🐻 𝑩𝒍𝒆𝒂𝒄𝒉 🐻🎭🌍*
 https://chat.whatsapp.com/J0vzttZbKXqKeUZPj0fUYa
