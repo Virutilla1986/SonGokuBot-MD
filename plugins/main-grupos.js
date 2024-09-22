@@ -58,14 +58,7 @@ ${gp16}
 
 *◜💦 CANALES OFICIALES 💦◞*
 
-${namechannel}
-${channel}
 
-${namechannel2}
-${channel2}
-
-${namechannel3}
-${channel3}
 
 *◆━━━━━━━▣✦▣━━━━━━━━◆ *
 
