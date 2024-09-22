@@ -11,6 +11,62 @@ let txt = `*Hola!, te invito a formar parte de nuestros grupis de dragón ball.*
 ${DragonBallLegends}
 ${gp1}
 
+${FamiliaSaiyan}
+${gp2}
+
+${DragonBallFornite}
+${gp3}
+
+${DragonBallRol}
+${gp4}
+
+${DragonBallAF}
+${gp5}
+
+${VillanoDragonBall}
+${gp6}
+
+${DragonBallXenoverse}
+${gp7}
+
+${VideosDragonBall}
+${gp8}
+
+${DragonBallStickers}
+${gp9}
+
+${DragonBallDibujos}
+${gp10}
+
+${PowerOfGods}
+${gp11}
+
+${DragonBallEncuestas}
+${gp12}
+
+${DragonBallKakarot}
+${gp13}
+
+${DragonBallZDokkanBattle}
+${gp14}
+
+${DragonBallZFans}
+${gp15}
+
+${FansDragonBallZKai}
+${gp16}
+
+*◜💦 CANALES OFICIALES 💦◞*
+
+${namechannel}
+${channel}
+
+${namechannel2}
+${channel2}
+
+${namechannel3}
+${channel3}
+
 *◆━━━━━━━▣✦▣━━━━━━━━◆ *
 
 > ⚠️ Enlace anulado? entre aquí! 
