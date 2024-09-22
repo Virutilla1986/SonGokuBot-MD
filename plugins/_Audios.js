@@ -1,7 +1,6 @@
 //Código creador por matias-crypto colaborador De SonGoku 
 //Audio puesto por YerTX2
 //si usa el audio para su bot deje los créditos 
-//No seas gey no quites los créditos 😑🇦🇱
 
 import fs from 'fs';
 
