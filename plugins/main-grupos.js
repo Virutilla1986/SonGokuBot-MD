@@ -56,12 +56,16 @@ ${gp15}
 ${FansDragonBallZKai}
 ${gp16}
 
-*◆━━━━━━━▣✦▣━━━━━━━━◆ *
+*◆━━━━━━━▣✦▣━━━━━━━━◆*
 
 *◜💦 CANALES OFICIALES 💦◞* 
 
 ${Noticiasdragonball}
 ${canal} 
+
+${Curiosidaddragonball}
+${canal2} 
+
 
 
 > 🚩 ${textbot}`
