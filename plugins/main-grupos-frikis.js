@@ -75,5 +75,5 @@ await conn.sendFile(m.chat, img, "Thumbnail.jpg", txt, m, null, rcanal)
 }
 handler.help = ['grupos']
 handler.tags = ['main']
-handler.command = /^(grupos)$/i
+handler.command = /^(gruposfrikis)$/i
 export default handler
