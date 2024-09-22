@@ -60,7 +60,7 @@ ${gp16}
 
 *◜💦 CANALES OFICIALES 💦◞* 
 
-*Noticias dragón ball*
+${FansDragonBallZKai}
 ${canal} 
 
 
