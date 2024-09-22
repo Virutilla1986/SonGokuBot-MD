@@ -66,6 +66,8 @@ ${canal}
 ${Curiosidaddragonball}
 ${canal2} 
 
+${Dragonballjuegos}
+${canal3} 
 
 
 > 🚩 ${textbot}`
