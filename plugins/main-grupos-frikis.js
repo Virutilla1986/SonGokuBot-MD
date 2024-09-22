@@ -19,11 +19,14 @@ let txt = `*Hola!, te invito a formar parte de nuestros grupos.*
 *亀🇪🇸 𝔽𝕒𝕟𝕤 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 🇪🇸亀*
 https://chat.whatsapp.com/ChQubdKdYav2XpohU8Vs3R
 
-*🌍🦸‍♂️🖖 Bola de drac català 🖖🦸‍♂️🌍*
+*🌍 Bola de drac català 🌍*
 https://chat.whatsapp.com/Jl57mUSc0Nr0DxdqcB74hI
 
 *🌍 Bola de drac en Valencià 🌍*
 https://chat.whatsapp.com/IhWTZM7Wu36AiiXE7mfXak
+
+*🌍 𝗕𝗼𝗹𝗮 𝗱𝗼 𝗱𝗿𝗮𝗴𝗼𝗻 🌍*
+https://chat.whatsapp.com/J644aEYo8BXITv6ZOLyYpi
 
 *🌍🤖 𝑫𝒆𝒔𝒄𝒂𝒓𝒈𝒂 𝒃𝒐𝒕𝒔 - 𝑹𝒆𝒅𝒆𝒔 𝒔𝒐𝒄𝒊𝒂𝒍𝒆𝒔 🤖🌍*
 https://chat.whatsapp.com/EGR7UJ4mvjMD0hc0ZoAxwI
