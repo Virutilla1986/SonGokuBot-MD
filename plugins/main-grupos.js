@@ -60,8 +60,8 @@ ${gp16}
 
 *◜💦 CANALES OFICIALES 💦◞* 
 
-Canal :
-*🪐* ${canal} 
+*Noticias dragón ball*
+${canal} 
 
 
 > 🚩 ${textbot}`
