@@ -76,9 +76,10 @@ global.gp15 = 'https://chat.whatsapp.com/KljiSB549Xc7HXXIzVPFat' //🐲🅳𝗥�
 global.gp16 = 'https://chat.whatsapp.com/BhXwjZVP0Ae9VU4pHqXATS' //🌍🐉🐲 𝔽𝕒𝕟𝕤 𝔻𝕖 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 ℤ 𝕂𝕒𝕚 🐲🐉🌍
 global.comunidad1 = 'https://chat.whatsapp.com/BR4uITM6xeR8GAd8b2VXN6' //Comunidad Goku
 global.comunidad2 = 'https://chat.whatsapp.com/BR4uITM6xeR8GAd8b2VXN6' //Comunidad de Moonligth
-global.channel = 'https://whatsapp.com/channel/0029VaSZsS14Y9lhQYCFvO0w' //noticias dragón ball
-global.channel2 = 'https://whatsapp.com/channel/0029VaQghZyAInPcWuTHOR3V' //curiosidad dragón ball
-global.channel3 = 'https://whatsapp.com/channel/0029VaQkf7T0rGiORXhKqR0R' //Dragón ball juegos
+global.canal = 'https://whatsapp.com/channel/0029VaSZsS14Y9lhQYCFvO0w' //noticias dragón ball 
+global.canal2 = 'https://whatsapp.com/channel/0029VaQghZyAInPcWuTHOR3V' //curiosidad dragón ball
+global.canal3 = 'https://whatsapp.com/channel/0029VaQkf7T0rGiORXhKqR0R' //Dragón ball juegos
+
 
 global.DragonBallLegends = '🌍📱🎮🐉 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 𝕃𝕖𝕘𝕖𝕟𝕕𝕤 🐉 🎮📱🌍'
 global.FamiliaSaiyan = '🌍🐉👨‍👩‍👧‍👧 𝔽𝕒𝕞𝕚𝕝𝕚𝕒 𝕊𝕒𝕚𝕪𝕒𝕟 👨‍👩‍👧‍👧🐉🌍'
@@ -96,10 +97,8 @@ global.DragonBallKakarot = '🌍🎮🐉 𝔻𝕣𝕒𝕘𝕠𝕟 𝕓𝕒𝕝�
 global.DragonBallZDokkanBattle = '🌍🎮🐉 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 ℤ 𝔻𝕠𝕜𝕜𝕒𝕟 𝕓𝕒𝕥𝕥𝕝𝕖 🐉🎮🌍'
 global.DragonBallZFans = '🐲🅳𝗥𝗔𝗚𝗢𝗡 🅱𝗔𝗟𝗟𝗦 🆉🐲🔥 🅵𝗔𝗡𝗦 🎥'
 global.FansDragonBallZKai = '🌍🐉🐲 𝔽𝕒𝕟𝕤 𝔻𝕖 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 ℤ 𝕂𝕒𝕚 🐲🐉🌍'
+global.canal = '🌍🐉🐲 Noticias dragón ball 🐲🐉🌍'
 
-global.canal = 'https://whatsapp.com/channel/0029VaSZsS14Y9lhQYCFvO0w' //noticias dragón ball 
-global.canal2 = 'https://whatsapp.com/channel/0029VaQghZyAInPcWuTHOR3V' //curiosidad dragón ball
-global.canal3 = 'https://whatsapp.com/channel/0029VaQkf7T0rGiORXhKqR0R' //Dragón ball juegos
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
