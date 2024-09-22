@@ -11,6 +11,8 @@ let txt = `*Hola!, te invito a formar parte de la comunidad de
 
 *👑* ${group}
 
+*👑* ${gp1}
+
 *◆━━━━━━━▣✦▣━━━━━━━━◆ *
 
 > ⚠️ Enlace anulado? entre aquí! 
