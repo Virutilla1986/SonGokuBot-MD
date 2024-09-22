@@ -99,6 +99,7 @@ global.DragonBallZFans = '🐲🅳𝗥𝗔𝗚𝗢𝗡 🅱𝗔𝗟𝗟𝗦 🆉
 global.FansDragonBallZKai = '🌍🐉🐲 𝔽𝕒𝕟𝕤 𝔻𝕖 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 ℤ 𝕂𝕒𝕚 🐲🐉🌍'
 global.Noticiasdragonball = '🌍🐉🐲 Noticias dragón ball 🐲🐉🌍'
 global.Curiosidaddragonball = '🌍🐉🐲 Curiosidad dragón ball 🐲🐉🌍'
+global.Dragonballjuegos = '🌍🐉🐲 Dragón ball juegos 🐲🐉🌍'
 
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
