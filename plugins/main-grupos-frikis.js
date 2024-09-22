@@ -46,9 +46,6 @@ https://chat.whatsapp.com/CRYP316MujxKFYiIHe9ZEx
 *🌍⚔️🛡️ 𝑭𝒂𝒏𝒔 𝒅𝒆 𝒂𝒕𝒂𝒒𝒖𝒆 𝒂 𝒍𝒐𝒔 𝒕𝒊𝒕𝒂𝒏𝒆𝒔 ⚔️🛡️🌍*
 https://chat.whatsapp.com/Bjf43ZD8ZlZBCWE0Yv3jIX
 
-*🌍🌟🌌 𝑭𝒂𝒏𝒔 𝒅𝒆 𝒍𝒂 𝒑𝒂𝒕𝒓𝒖𝒍𝒍𝒂 𝒈𝒂𝒍á𝒄𝒕𝒊𝒄𝒂 "𝑮𝒂𝒍𝒂𝒙𝒚 𝑹𝒂𝒏𝒈𝒆𝒓𝒔" 🌌🌟🌍*
-https://chat.whatsapp.com/IYoPm45egDQJ5yBOsHxBpc
-
 *🌍🃏♣️ 𝑭𝒂𝒏𝒔 𝒅𝒆 𝑲𝒂𝒌𝒆𝒈𝒖𝒓𝒖𝒊 ♣️🃏🌍*
 https://chat.whatsapp.com/By1GlKQ5yLQAYYxhTR8t9N
 
