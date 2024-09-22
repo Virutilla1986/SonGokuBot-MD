@@ -6,7 +6,7 @@ const more = String.fromCharCode(8206)
 const readMore = more.repeat(4001)
 let txt = `*Hola!, te invito a formar parte de nuestros grupis de dragón ball.* 
 
-*Grupos dragón ball*
+*◜🐉 GRUPOS OFICIALES 🐉◞*
 
 ${DragonBallLegends}
 ${gp1}
@@ -56,13 +56,9 @@ ${gp15}
 ${FansDragonBallZKai}
 ${gp16}
 
-*◜💦 CANALES OFICIALES 💦◞*
-
-
-
 *◆━━━━━━━▣✦▣━━━━━━━━◆ *
 
-> ⚠️ Enlace anulado? entre aquí! 
+*◜💦 CANALES OFICIALES 💦◞* 
 
 Canal :
 *🪐* ${canal} 
