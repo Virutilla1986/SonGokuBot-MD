@@ -37,9 +37,6 @@ https://chat.whatsapp.com/CIsIuOpJoEX72KsLMHpMHz
 *🌍 👒⛩️ 𝑭𝒂𝒏𝒔 𝒅𝒆 𝑶𝒏𝒆 𝒑𝒊𝒆𝒄𝒆 ⛩️👒🌍*
 https://chat.whatsapp.com/KkanOPfYmn2DE0oErnxdKf
 
-*🌍🛡️👊 𝑺𝒂𝒊𝒏𝒕 𝑺𝒆𝒊𝒚𝒂 - 𝑳𝒐𝒔 𝑪𝒂𝒃𝒂𝒍𝒍𝒆𝒓𝒐𝒔 𝒅𝒆𝒍 𝒁𝒐𝒅𝒊𝒂𝒄𝒐 👊🛡️🌍*
-https://chat.whatsapp.com/G0ZqsFR5ZLAHDWPEuPXAEG
-
 *🌍🦾🦿 𝑭𝒂𝒏𝒔 𝒅𝒆 𝑴𝒂𝒛𝒊𝒏𝒈𝒆𝒓 𝒁 🦿🦾🌍*
 https://chat.whatsapp.com/CtZOjnEVUEBHuaEnsNoo7H
 
