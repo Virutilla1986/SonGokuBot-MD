@@ -97,9 +97,9 @@ global.DragonBallZDokkanBattle = '🌍🎮🐉 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒
 global.DragonBallZFans = '🐲🅳𝗥𝗔𝗚𝗢𝗡 🅱𝗔𝗟𝗟𝗦 🆉🐲🔥 🅵𝗔𝗡𝗦 🎥'
 global.FansDragonBallZKai = '🌍🐉🐲 𝔽𝕒𝕟𝕤 𝔻𝕖 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 ℤ 𝕂𝕒𝕚 🐲🐉🌍'
 
-
-
-global.canal = 'https://whatsapp.com/channel/0029VaSZsS14Y9lhQYCFvO0w'
+global.canal = 'https://whatsapp.com/channel/0029VaSZsS14Y9lhQYCFvO0w' //noticias dragón ball 
+global.canal2 = 'https://whatsapp.com/channel/0029VaQghZyAInPcWuTHOR3V' //curiosidad dragón ball
+global.canal3 = 'https://whatsapp.com/channel/0029VaQkf7T0rGiORXhKqR0R' //Dragón ball juegos
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
