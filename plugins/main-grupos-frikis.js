@@ -22,6 +22,9 @@ https://chat.whatsapp.com/ChQubdKdYav2XpohU8Vs3R
 *🌍🦸‍♂️🖖 Bola de drac català 🖖🦸‍♂️🌍*
 ...
 
+*🌍 Bola de drac en Valencià 🌍*
+https://chat.whatsapp.com/IhWTZM7Wu36AiiXE7mfXak
+
 *🌍🤖 𝑫𝒆𝒔𝒄𝒂𝒓𝒈𝒂 𝒃𝒐𝒕𝒔 - 𝑹𝒆𝒅𝒆𝒔 𝒔𝒐𝒄𝒊𝒂𝒍𝒆𝒔 🤖🌍*
 https://chat.whatsapp.com/EGR7UJ4mvjMD0hc0ZoAxwI
 
@@ -30,9 +33,6 @@ https://chat.whatsapp.com/KfMhKx6jRUR8jzZB13M2hB
 
 *🌍🥅⚽ 𝘊𝘢𝘱𝘪𝘵𝘢𝘯 𝘛𝘴𝘶𝘣𝘢𝘴𝘢 - 𝘊𝘢𝘮𝘱𝘦𝘰𝘯𝘦𝘴: 𝘖𝘭𝘪𝘷𝘦𝘳 𝘺 𝘉𝘦𝘯𝘫𝘪 ⚽🥅🌍*
 https://chat.whatsapp.com/GtVWMKa8Nkn04h7YeswwGQ
-
-*🌍🕵️⛓️ 𝑭𝒂𝒏𝒔 𝒅𝒆 𝒍𝒖𝒑𝒊𝒏 𝑰𝑰𝑰 ⛓️🕵️🌍*
-https://chat.whatsapp.com/IhWTZM7Wu36AiiXE7mfXak
 
 *🌍🍥🍜 𝑭𝒂𝒏𝒔 𝒅𝒆 𝑵𝒂𝒓𝒖𝒕𝒐 🍜🍥🌍*
 https://chat.whatsapp.com/CIsIuOpJoEX72KsLMHpMHz
