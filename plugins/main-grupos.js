@@ -4,7 +4,7 @@ let handler  = async (m, { conn, usedPrefix, command }) => {
 let img = await (await fetch(`https://telegra.ph/file/0dbf7b27644e8dfa8baa4.jpg`)).buffer()
 const more = String.fromCharCode(8206)
 const readMore = more.repeat(4001)
-let txt = `*Hola!, te invito a formar parte de nuestros grupis de dragón ball.* 
+let txt = `*Hola!, te invito a formar parte de nuestros grupos de dragón ball.* 
 
 *◜🐉 GRUPOS OFICIALES 🐉◞*
 
