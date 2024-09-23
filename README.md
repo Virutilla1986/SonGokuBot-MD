@@ -5,7 +5,7 @@
 <img src="https://i.postimg.cc/bwTH9969/Goku-Bot-telegram.jpg" alt="SonGOKU" width="500"/>
 </p>
 
-<a href="https://github.com/MundoDragonBall/SonGoku.git/watchers"><img title="espectadores" src="https://img.shields.io/github/watchers/YerTX2/SonGoku?label=Espectadores&style=social"></a>
+<a href="https://github.com/MundoDragonBall/SonGoku.git/"><img title="espectadores" src="https://img.shields.io/github/watchers/YerTX2/SonGoku?label=Espectadores&style=social"></a>
 </p>
 
 
