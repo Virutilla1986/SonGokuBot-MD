@@ -13,4 +13,9 @@
 <a href="https://github.com/MundoDragonBall/SonGoku"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=15&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=🌀░S░o░n░G░o░k░u🌀++;𝙷𝚘𝚕𝚊,+𝙶𝚛𝚊𝚌𝚒𝚊𝚜+𝙿𝚘𝚛+𝚅𝚒𝚜𝚒𝚝𝚊𝚛+𝙴𝚕+𝚁𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚘" height="40px"></a> 
 </p>
 
+<p align="center"> 
+<a href="https://github.com/MundoDragonBall/SonGoku"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=19&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=🌀░S░o░n░G░o░k░u🌀++;𝙶𝚛𝚞𝚙𝚘𝚜+𝙾𝚏𝚒𝚌𝚒𝚊𝚕𝚎𝚜+𝙳𝚎" height="35px"></a> 
+</p>
+
+
 si
