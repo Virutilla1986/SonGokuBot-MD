@@ -17,5 +17,11 @@
 <a href="https://github.com/MundoDragonBall/SonGoku"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=19&duration=4000&color=[00FFFF]&center=falso&vCenter=falso&lines=🌀░S░o░n░G░o░k░u🌀++;𝙶𝚛𝚞𝚙𝚘𝚜+𝙾𝚏𝚒𝚌𝚒𝚊𝚕𝚎𝚜+𝙳𝚎" height="35px"></a> 
 </p>
 
+<a
+href="https://whatsapp.com/channel/0029VaSZsS14Y9lhQYCFvO0w" target="white"><img src="https://img.shields.io/badge/Canal- oficial del bot-000000?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
+<a href="https://chat.whatsapp.com/BR4uITM6xeR8GAd8b2VXN6" target="white"><img src="https://img.shields.io/badge/Grupo-OfiCIAL DEL BOT-000000?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
+<a href="[https://chat.whatsapp.com/LBV1BouJqL0ICIRogyq6IT](https://chat.whatsapp.com/BR4uITM6xeR8GAd8b2VXN6)" target="blank"><img src="https://img.shields.io/badge/grupo- de soporté-000000?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+
 
 si
