@@ -2,7 +2,7 @@
 <p align="center">
 
 <p align="center">
-<img src="https://i.postimg.cc/bwTH9969/Goku-Bot-telegram.jpg" alt="SonGOKU" width="900"/>
+<img src="https://i.postimg.cc/bwTH9969/Goku-Bot-telegram.jpg" alt="SonGOKU" width="800"/>
 </p>
 
 aqui
