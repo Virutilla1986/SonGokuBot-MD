@@ -8,7 +8,19 @@ export async function before(m, {conn, participants, groupMetadata}) {
   let chat = global.db.data.chats[m.chat]
 
   if (chat.bienvenida && m.messageStubType == 27) {
-    let bienvenida = `Hola soy GokuBot un robot que da la bienvenida a los nuevos usuarios. Bienvenido saiyan「 @${m.messageStubParameters[0].split`@`[0]} 」al grupo, ${groupMetadata.subject} siéntete libre de hablar y subir videos e imágenes.... ﹏﹏﹏﹏﹏✪✭✪﹏﹏﹏﹏﹏⳹`
+    let bienvenida = `*╔═════════════*
+*║* *Hola soy GokuBot un*
+*║* *robot que da la*
+*║* *bienvenida a los*
+*║* *nuevos usuarios.*
+*║* *Bienvenido*
+*║* *saiyan「 @${m.messageStubParameters[0].split`@`[0]} 」*
+*║* *al grupo, ${groupMetadata.subject}*
+*║* *siéntete libre de hablar*
+*║* *y subir videos e*
+*║* *imágenes....*
+*║*
+*╚══════════════*`
     
 await conn.sendAi(m.chat, botname, textbot, bienvenida, img, img, canal, estilo)
   }
