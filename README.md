@@ -23,5 +23,9 @@ href="https://whatsapp.com/channel/0029VaSZsS14Y9lhQYCFvO0w" target="white"><img
 <a href="https://chat.whatsapp.com/BR4uITM6xeR8GAd8b2VXN6" target="blank"><img src="https://img.shields.io/badge/grupo- de soporté-000000?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 
+## <h2>`PROPIETARIO DEL BOT`</h2> 
+               `By Juan1986`
+
+<a href="https://github.com/MundoDragonBall/SonGoku"><img src="https://i.postimg.cc/KYCsk4sD/avatar-git-Hub.jpg" width="200" height="200" alt="YerTX2"/></a>
 
 si
