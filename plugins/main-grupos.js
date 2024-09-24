@@ -61,6 +61,9 @@ ${gp15}
 ${FansDragonBallZKai}
 ${gp16}
 
+${DragonBallFigtherz}
+${gp17}
+
 *◆━━━━━━━▣✦▣━━━━━━━━◆*
 
 *◜💦 CANALES OFICIALES 💦◞* 
