@@ -1,7 +1,7 @@
 import fetch from 'node-fetch'
 
 let handler  = async (m, { conn, usedPrefix, command }) => {
-let img = await (await fetch(`https://qu.ax/OSpM.gif`)).buffer()
+let img = await (await fetch(`https://qu.ax/uwKt.mp4`)).buffer()
 const more = String.fromCharCode(8206)
 const readMore = more.repeat(4001)
 let txt = `*Este es el menu de audios que dispone GokuBot, no estan todos aun disponibles, iremos añadiendo...*
