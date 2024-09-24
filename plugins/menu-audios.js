@@ -1,11 +1,10 @@
 import fetch from 'node-fetch'
 
 let handler  = async (m, { conn, usedPrefix, command }) => {
-let img = await (await fetch(`https://od.lk/s/NTZfMzQ5NTQwMjNf/Goku_whatsApp.jpg`)).buffer()
+let img = await (await fetch(`https://qu.ax/OSpM.gif`)).buffer()
 const more = String.fromCharCode(8206)
 const readMore = more.repeat(4001)
-let txt = `Te gusta dragón ball aqui tenéis una comunidad echa por un fan para todos los fans.
-Tenéis aqui los enlaces de la comunidad frikilandia de WhatsApp, si queréis ver los grupos de Facebook y Telegram pon:*
+let txt = `*Este es el menu de audios que dispone GokuBot, no estan todos aun disponibles, iremos añadiendo...*
 
 ╭┄〔 *Sonido GokuBot* 〕┄⊱
 ┊
