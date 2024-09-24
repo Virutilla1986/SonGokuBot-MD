@@ -67,67 +67,16 @@ let txt = `*Este es el menu de audios que dispone GokuBot, no estan todos aun di
 ┊ ∘ 🆕 *_Mi dinero disminuye_*
 ┊ ∘ 🆕 *_Goku esta vaina es seria_*
 ┊
-┊ 🔊 *La que se a vecina castellano* 🔊
-┊ ∘ 🆕 *_Espartaco_*
-┊ ∘ 🆕 *_Mandanga style_*
-┊ ∘ 🆕 *_Asomate a mi salami_*
-┊ ∘ 🆕 *_merengue merengue_*
-┊ ∘ 🆕 *_mira la abuelita_*
-┊ ∘ 🆕 *_No toques_*
-┊ ∘ 🆕 *_Que viene_*
-┊ ∘ 🆕 *_Hacia Maite va_*
-┊ ∘ 🆕 *_Te voy a poner fina_*
-┊ ∘ 🆕 *_Que bueno soy_*
-┊ ∘ 🆕 *_huevón huevón huevón_*
-┊ ∘ 🆕 *_meminas la moral_*
-┊ ∘ 🆕 *_donde estabas_*
-┊
 ┊ 🔊 *música y sonidos* 🔊
-┊ ∘ *_Alarma_*
 ┊ ∘ *_dj dragón ball_*
 ┊ ∘ *_cumpleaños felis_*
 ┊ ∘ *_Silbido dragón ball_*
-┊ ∘ *_jumanji_*
-┊ ∘ *_Lobo_*
 ┊ ∘ *_Tapion_*
-┊ ∘ *_psicosis_*
-┊ ∘ *_jajaja_*
-┊ ∘ *_soy un nomo_*
-┊ ∘ *_Terminator_*
-┊ ∘ *_un caracol fugaz_*
-┊ ∘ *_Abogado_*
-┊ ∘ *_multiplicase por cero_*
-┊ ∘ *_cobarde_*
-┊ ∘ *_cansino_*
-┊ ∘ *_hijo de mil padres_*
-┊ ∘ *_quiero mi bocadillo_*
-┊ ∘ *_jo tio_*
-┊ ∘ *_mosquis_*
-┊ ∘ *_bidones rodarán_*
-┊ ∘ *_hoy no... mañana_*
-┊ ∘ *_La cabra_*
-┊ ∘ *_la purga infinita_*
-┊ ∘ *_la técnica de Piter pan_*
-┊ ∘ *_los dioses del Olimpo_*
-┊ ∘ *_liando porros_*
-┊ ∘ *_sayonara baby_*
-┊ ∘ *_todo el olimpo caera_*
-┊ ∘ *_Soy tu padre_*
 ┊
 ┊ 🔊 *sonido latino* 🔊
 ┊ ∘ *_vete a tu casa_*
 ┊ ∘ *_carita empapada_*
 ┊ ∘ *_hay alguien en el grupo_*
-┊ ∘ *_los pingüinos_*
-┊ ∘ *_maldicion_*
-┊ ∘ *_mangekyo_*
-┊ ∘ *_Mary Jane_*
-┊ ∘ *_depuracion infinita_*
-┊ ∘ *_Que bendición_*
-┊ ∘ *_ta bien_*
-┊ ∘ *_tomboy_*
-┊ ∘ *_ultra instinto_*
-┊ ∘ *_ya vete del cyber_*
 ┊
 ┊ 🔊 *GokuBot castellano* 🔊
 ┊ ∘ *_bienvenido_*
