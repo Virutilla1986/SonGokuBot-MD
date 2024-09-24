@@ -67,7 +67,7 @@ https://chat.whatsapp.com/CjPAAmdWQzO07yzPoypr6O
 > 🚩 ${textbot}`
 await conn.sendFile(m.chat, img, "Thumbnail.jpg", txt, m, null, rcanal)
 }
-handler.help = ['grupos']
+handler.help = ['appstickers']
 handler.tags = ['main']
 handler.command = /^(gruposfrikis)$/i
 export default handler
