@@ -51,7 +51,7 @@ let handler = async (m, { conn }) => {
 };
 
 handler.help = ['ayuda', 'gey', 'ayuda', 'elcorazon', 'sin sentimiento', 'linda','negra', 'callate', 'super albañil', 'que me importa', 'mondongo', 'bebitofiufiu', 'lala', 'dios', 'risa', 'tengo novia', 'calculadora', 'motivar',
-'peruano', 'viva venezuela', 'sad']
+'peruano', 'viva venezuela', 'sad', 'Goku eta Vaina e seria']
 handler.customPrefix = /^(hola|Goku eta Vaina e seria|cómo estás|goku|gey|si te mueves|ayuda|sin sentimiento|linda|negra|eres tu|callate|super albañil|peruano|viva venezuela|que me importa|mondongo|bebitofiufiu|lala|dios|sad|jaja|motivar|calculadora|tengo novia)/i;
 handler.command = new RegExp;
 handler.tags = ['Audios Dbz'] 
