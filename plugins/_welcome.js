@@ -26,7 +26,22 @@ await conn.sendAi(m.chat, botname, textbot, bienvenida, img, img, canal, estilo)
   }
   
   if (chat.bienvenida && m.messageStubType == 28) {
-    let bye = `✗ *${botname}* \n│「 Chau 」\n└┬★ 「 @${m.messageStubParameters[0].split`@`[0]} 」\n   │✗  Se fue\n   │👋 insecto \n   ﹏﹏﹏﹏﹏✪✭✪﹏﹏﹏﹏﹏ ⳹`
+    let bye = `✗ *╔══════════════*
+*║   Se fue el saiyan* 
+*║ 「 @${m.messageStubParameters[0].split`@`[0]} 」 un saiyan*
+*║   de clase baja, no* 
+*║   pudisteis con* 
+*║   nosotros,* 
+*║   un placer haberle* 
+*║   tenido en*
+*║   el grupo, si*
+*║   vuelves prepárate*
+*║   antes, para estar a*
+*║   la altura, insecto*
+*║*
+*║ hasta la vista Saiyan* 
+*║ 👋🏻* 
+*╚══════════════*`
 await conn.sendAi(m.chat, botname, textbot, bye, img, img, canal, estilo)
   }
   
