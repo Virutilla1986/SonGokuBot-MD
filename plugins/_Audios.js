@@ -26,7 +26,7 @@ let handler = async (m, { conn }) => {
     'dios': './SonGoku/dios.mp3', 
     'sad': './SonGoku/sad.mp3', 
     'risa': './SonGoku/jaja.mp3',
-    'Goku eta Vaina e seria': './SonGoku/Goku eta vaina e seria.mp3',
+    'Goku eta vaina e seria': './SonGoku/Goku eta vaina e seria.mp3',
     'motivar': './SonGoku/motivar.mp3', 
     'calculadora': './SonGoku/calculadora.mp3', 
     'tengo novia': './SonGoku/tengo novia.mp3'
@@ -51,8 +51,8 @@ let handler = async (m, { conn }) => {
 };
 
 handler.help = ['ayuda', 'gey', 'ayuda', 'elcorazon', 'sin sentimiento', 'linda','negra', 'callate', 'super albañil', 'que me importa', 'mondongo', 'bebitofiufiu', 'lala', 'dios', 'risa', 'tengo novia', 'calculadora', 'motivar',
-'peruano', 'viva venezuela', 'sad', 'Goku eta Vaina e seria']
-handler.customPrefix = /^(hola|Goku eta Vaina e seria|cómo estás|goku|gey|si te mueves|ayuda|sin sentimiento|linda|negra|eres tu|callate|super albañil|peruano|viva venezuela|que me importa|mondongo|bebitofiufiu|lala|dios|sad|jaja|motivar|calculadora|tengo novia)/i;
+'peruano', 'viva venezuela', 'sad', 'Goku eta vaina e seria']
+handler.customPrefix = /^(hola|Goku eta vaina e seria|cómo estás|goku|gey|si te mueves|ayuda|sin sentimiento|linda|negra|eres tu|callate|super albañil|peruano|viva venezuela|que me importa|mondongo|bebitofiufiu|lala|dios|sad|jaja|motivar|calculadora|tengo novia)/i;
 handler.command = new RegExp;
 handler.tags = ['Audios Dbz'] 
 export default handler;
