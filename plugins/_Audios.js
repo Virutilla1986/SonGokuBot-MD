@@ -32,7 +32,7 @@ let handler = async (m, { conn }) => {
     'tengo novia': './SonGoku/tengo novia.mp3',
     'hay alguien': './SonGoku/Hay alguien en el grupo.mp3',
     'celula tuvo miedo': './SonGoku/celula tuvo miedo.mp3',
-    'insecto': './SonGoku/Goku latino insecto.mp3'
+    'insecto': './SonGoku/insecto.mp3'
     
     
   };
