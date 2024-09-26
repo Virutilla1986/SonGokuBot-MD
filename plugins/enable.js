@@ -37,6 +37,15 @@ let handler = async (m, { conn, usedPrefix, command, args, isOwner, isAdmin, isR
     user.useDocument = isEnable
     break
 
+      case 'stickers':
+      if (m.isGroup) {
+      if (!(isAdmin || isOwner)) {
+      global.dfail('admin', m, conn)
+      throw false
+      }}
+      chat.stickers = isEnable          
+      break
+
     case 'antilink':
       if (m.isGroup) {
         if (!(isAdmin || isOwner)) {
