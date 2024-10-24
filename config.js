@@ -1,11 +1,5 @@
 import { watchFile, unwatchFile } from 'fs' 
-import chalk from 'chalk'
-import { fileURLToPath } from 'url'
-import fs from 'fs'
-import cheerio from 'cheerio'
-import fetch from 'node-fetch'
-import axios from 'axios'
-import moment from 'moment-timezone' 
+' 
 
 
         let _muptime
@@ -82,7 +76,7 @@ global.canal2 = 'https://whatsapp.com/channel/0029VaQghZyAInPcWuTHOR3V' //curios
 global.canal3 = 'https://whatsapp.com/channel/0029VaQkf7T0rGiORXhKqR0R' //Dragón ball juegos
 
 
-global.DragonBallLegends = '🌍📱🎮🐉 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 𝕃𝕖𝕘𝕖𝕟𝕕𝕤 🐉 🎮📱🌍'
+global.DragonBallLe///gends = '🌍📱🎮🐉 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 𝕃𝕖𝕘𝕖𝕟𝕕𝕤 🐉 🎮📱🌍'
 global.FamiliaSaiyan = '🌍🐉👨‍👩‍👧‍👧 𝔽𝕒𝕞𝕚𝕝𝕚𝕒 𝕊𝕒𝕚𝕪𝕒𝕟 👨‍👩‍👧‍👧🐉🌍'
 global.DragonBallFornite = '🐉 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 𝔽𝕠𝕣𝕥𝕟𝕚𝕥𝕖 🐉'
 global.DragonBallRol = '🌍🐉🐲 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 ℝ𝕠𝕝 🐲🐉🌍'
@@ -92,19 +86,7 @@ global.DragonBallXenoverse = '🐉 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 �
 global.VideosDragonBall = '🌍🐉📹 𝕍𝕚𝕕𝕖𝕠𝕤 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 📹🐉🌍'
 global.DragonBallStickers = '🌍🐲🐉𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 𝕊𝕥𝕚𝕔𝕜𝕖𝕣𝕤🐉🐲🌍'
 global.DragonBallDibujos = '🌍🐉🎨 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 𝕕𝕚𝕓𝕦𝕛𝕠𝕤 🎨🐉🌍'
-global.PowerOfGods = '🌍🐉 ℙ𝕠𝕨𝕖𝕣 𝕆𝕗 𝔾𝕠𝕕𝕤 🐉🌍'
-global.DragonBallEncuestas = '🌍📊🐉 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 𝕖𝕟𝕔𝕦𝕖𝕤𝕥𝕒𝕤 🐉📊🌍'
-global.DragonBallKakarot = '🌍🎮🐉 𝔻𝕣𝕒𝕘𝕠𝕟 𝕓𝕒𝕝𝕝 𝕜𝕒𝕜𝕒𝕣𝕠𝕥 🐉🎮🌍'
-global.DragonBallZDokkanBattle = '🌍🎮🐉 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 ℤ 𝔻𝕠𝕜𝕜𝕒𝕟 𝕓𝕒𝕥𝕥𝕝𝕖 🐉🎮🌍'
-global.DragonBallZFans = '🐲🅳𝗥𝗔𝗚𝗢𝗡 🅱𝗔𝗟𝗟𝗦 🆉🐲🔥 🅵𝗔𝗡𝗦 🎥'
-global.FansDragonBallZKai = '🌍🐉🐲 𝔽𝕒𝕟𝕤 𝔻𝕖 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 ℤ 𝕂𝕒𝕚 🐲🐉🌍'
-global.DragonBallFigtherz = '🐉🎮𝔻ℝ𝔸𝔾𝕆ℕ 𝔹𝔸𝕃𝕃 𝔽𝕀𝔾𝕋ℍ𝔼ℝℤ🎮🐉'
-global.Noticiasdragonball = '🌍🐉🐲 Noticias dragón ball 🐲🐉🌍'
-global.Curiosidaddragonball = '🌍🐉🐲 Curiosidad dragón ball 🐲🐉🌍'
-global.Dragonballjuegos = '🌍🐉🐲 Dragón ball juegos 🐲🐉🌍'
 
-
-//*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: botname, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 
@@ -119,13 +101,13 @@ global.moment = moment
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.multiplier = 69 
-global.maxwarn = '2' // máxima advertencias
+global.maxwar////n = '2' // máxima advertencias
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-let file = fileURLToPath(import.meta.url)
+let file = fileURLToPa.////th(import.meta.url)
 watchFile(file, () => {
   unwatchFile(file)
   console.log(chalk.redBright("Update 'config.js'"))
-  import(`${file}?update=${Date.now()}`)
+  (`${file}?update=${Date.now()}`)
 })
